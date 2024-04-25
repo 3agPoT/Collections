@@ -1,0 +1,45 @@
+
+d
+java:S1700"Rename field "linkedHashSet"(œÎ´¥ÿÿÿÿÿ8ËÁÎ¯ñ1J$8d7c4326-e856-4cb3-b08f-e584d9da20f7
+V
+java:S1220""Move this file to a named package.J$103513e7-6cd6-4b05-9aa7-c0e5a48bc9b7
+˜
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ˆîõîıÿÿÿÿ8‹ÂÎ¯ñ1J$2caa76c2-291b-4fcf-9040-59120eca7d1e
+m	java:S106"+Replace this use of System.out by a logger.(¶ú¡œ8©ÃÎ¯ñ1J$5e5b32e9-fee5-419b-87ae-6991138c4041
+ƒ
+java:S1854";Remove this useless assignment to local variable "readNum".(ˆîõîıÿÿÿÿ8°ÃÎ¯ñ1J$a4497abe-5a8d-4870-b10c-62f9203840b9
+t
+java:S1481",Remove this unused "readNum" local variable.(ˆîõîıÿÿÿÿ8µÃÎ¯ñ1J$8fb96d4d-d46b-4873-b842-1d709d6838ee
+r	java:S106"+Replace this use of System.out by a logger.(Öö»šûÿÿÿÿ8µÃÎ¯ñ1J$2532703e-e6be-4cf1-80e6-add6e4fe7438
+r	java:S106"+Replace this use of System.out by a logger.(–ãÜëøÿÿÿÿ8¹ÃÎ¯ñ1J$e51aa8c8-1f0f-4d68-b38a-d41dc40be714
+r	java:S106"+Replace this use of System.out by a logger.(–Âø–úÿÿÿÿ8ÁÃÎ¯ñ1J$ea3e8472-a6f0-4b62-a91e-54feb3597821
+r	java:S106$"+Replace this use of System.out by a logger.(½ˆ‘ğøÿÿÿÿ8ÈÃÎ¯ñ1J$904b3795-3663-45de-b65a-1160ead91230
+}
+java:S1854("5Remove this useless assignment to local variable "b".(µ¿¨—ıÿÿÿÿ8ÎÃÎ¯ñ1J$6ad99c55-d1d5-4875-a672-415460271241
+n
+java:S1481("&Remove this unused "b" local variable.(µ¿¨—ıÿÿÿÿ8ÑÃÎ¯ñ1J$9fbd03d4-f5e2-4423-97be-0529bf95a18d
+r	java:S106)"+Replace this use of System.out by a logger.(Î™ışÿÿÿÿ8ÑÃÎ¯ñ1J$34e003b0-8149-4d79-b0b1-a26c6af54888
+x
+java:S1854-"5Remove this useless assignment to local variable "b".(¨ùš¹8ÒÃÎ¯ñ1J$8a1eb8ab-a9a5-4f2d-a8ed-a7b5b3abaa0d
+i
+java:S1481-"&Remove this unused "b" local variable.(¨ùš¹8ÕÃÎ¯ñ1J$0a70d7fe-b8d1-4dd0-802b-e603eb4f2620
+l	java:S106."+Replace this use of System.out by a logger.(“»ï38ÖÃÎ¯ñ1J$4d701053-beaf-46e8-880c-b32d5f33ce55
+r	java:S1063"+Replace this use of System.out by a logger.(üÈôÄüÿÿÿÿ8İÃÎ¯ñ1J$0b564f37-4fce-4102-846a-71d512a0b466
+w
+java:S18547"5Remove this useless assignment to local variable "b".(ÜãÈ8ŞÃÎ¯ñ1J$84c757cb-d87d-4829-8a43-e1110bf0f650
+h
+java:S14817"&Remove this unused "b" local variable.(ÜãÈ8áÃÎ¯ñ1J$917f778a-df73-41d0-a7ca-814c31436aa8
+m	java:S1068"+Replace this use of System.out by a logger.(¸¨¾8áÃÎ¯ñ1J$6409877b-4729-44ee-a9d9-24b8bf164360
+}
+java:S1854="5Remove this useless assignment to local variable "b".(Ç¨ù­ıÿÿÿÿ8âÃÎ¯ñ1J$8d47749f-b9bf-49e1-98d0-29ed49d254dc
+n
+java:S1481="&Remove this unused "b" local variable.(Ç¨ù­ıÿÿÿÿ8æÃÎ¯ñ1J$e1764dc5-fa70-42fa-89bf-7dff6e2c3c60
+r	java:S106>"+Replace this use of System.out by a logger.(«÷ï¤şÿÿÿÿ8æÃÎ¯ñ1J$5c74031e-fa24-428f-a124-f961ed068200
+}
+java:S1854B"5Remove this useless assignment to local variable "b".(İ°’üÿÿÿÿ8çÃÎ¯ñ1J$e46ff44e-27f2-49a0-b9fb-1f0efd17fef7
+n
+java:S1481B"&Remove this unused "b" local variable.(İ°’üÿÿÿÿ8éÃÎ¯ñ1J$b7ffa2bc-369c-4d91-ae39-92b7406f90cf
+r	java:S106C"+Replace this use of System.out by a logger.(•òî‰ıÿÿÿÿ8êÃÎ¯ñ1J$0b091767-2be1-4288-a1b1-40f993764c38
+m	java:S106H"+Replace this use of System.out by a logger.(¼¨‚°8àÅÎ¯ñ1J$7722635d-22b0-4934-af0b-3d7b842a4a69
+r	java:S106M"+Replace this use of System.out by a logger.(ŠßÑüÿÿÿÿ8äÅÎ¯ñ1J$7824d250-f6e1-45bd-befa-dd9bab10ba02
+r	java:S106N"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8åÅÎ¯ñ1J$e6716a86-aff2-49b3-9503-cbd4dd9e54c8

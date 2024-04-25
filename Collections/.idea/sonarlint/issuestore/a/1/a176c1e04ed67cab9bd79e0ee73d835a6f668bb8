@@ -1,0 +1,42 @@
+
+9
+java:S1700"Rename field "priorityQueue"(–òìé8ïåØ¯ñ1
+V
+java:S1220""Move this file to a named package.J$6c99b58c-b1cb-422b-9e08-e33b94fe054b
+T
+java:S3958("2Refactor the code so this stream pipeline is used.(¤ï¹õùÿÿÿÿ8²æØ¯ñ1
+G	java:S106
+"+Replace this use of System.out by a logger.(ì±£­8ÊæØ¯ñ1
+F	java:S106"+Replace this use of System.out by a logger.(şÑ8ÎæØ¯ñ1
+G	java:S106"+Replace this use of System.out by a logger.(…”Ö8ĞæØ¯ñ1
+L	java:S106"+Replace this use of System.out by a logger.(é¿ÿˆûÿÿÿÿ8ÓæØ¯ñ1
+L	java:S106$"+Replace this use of System.out by a logger.(ƒÒ‹ıÿÿÿÿ8×æØ¯ñ1
+W
+java:S1854("5Remove this useless assignment to local variable "b".(¤ï¹õùÿÿÿÿ8ÙæØ¯ñ1
+H
+java:S1481("&Remove this unused "b" local variable.(¤ï¹õùÿÿÿÿ8ŞæØ¯ñ1
+G	java:S106)"+Replace this use of System.out by a logger.(È•Óã8ßæØ¯ñ1
+W
+java:S1854-"5Remove this useless assignment to local variable "b".(’«ßëşÿÿÿÿ8ßæØ¯ñ1
+H
+java:S1481-"&Remove this unused "b" local variable.(’«ßëşÿÿÿÿ8áæØ¯ñ1
+F	java:S106."+Replace this use of System.out by a logger.(ŠÖòa8áæØ¯ñ1
+G	java:S1063"+Replace this use of System.out by a logger.(¼Í¤©8ãæØ¯ñ1
+R
+java:S18547"5Remove this useless assignment to local variable "b".(àª‹8äæØ¯ñ1
+C
+java:S14817"&Remove this unused "b" local variable.(àª‹8èæØ¯ñ1
+G	java:S1068"+Replace this use of System.out by a logger.(´ûÅ˜8éæØ¯ñ1
+R
+java:S1854<"5Remove this useless assignment to local variable "b".(ªÓ—ş8êæØ¯ñ1
+C
+java:S1481<"&Remove this unused "b" local variable.(ªÓ—ş8ëæØ¯ñ1
+L	java:S106="+Replace this use of System.out by a logger.(à¶Âêúÿÿÿÿ8íæØ¯ñ1
+R
+java:S1854A"5Remove this useless assignment to local variable "b".(«éù—8îæØ¯ñ1
+C
+java:S1481A"&Remove this unused "b" local variable.(«éù—8ñæØ¯ñ1
+L	java:S106B"+Replace this use of System.out by a logger.(ˆ²¿êÿÿÿÿÿ8ñæØ¯ñ1
+L	java:S106G"+Replace this use of System.out by a logger.(İ–‹üÿÿÿÿ8ôæØ¯ñ1
+L	java:S106L"+Replace this use of System.out by a logger.(Ùºòúÿÿÿÿ8÷æØ¯ñ1
+L	java:S106M"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8÷æØ¯ñ1

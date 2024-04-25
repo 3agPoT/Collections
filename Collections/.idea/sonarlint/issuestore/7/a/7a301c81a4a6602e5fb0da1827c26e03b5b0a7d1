@@ -1,0 +1,35 @@
+
+5
+java:S1700"Rename field "arrayList"(€ÉØÚ8ĞƒÉ¯ñ1
+V
+java:S1220""Move this file to a named package.J$55a41a5f-9604-494f-a455-eb1722b9e121
+L	java:S106"+Replace this use of System.out by a logger.(Æ‹Ê×ÿÿÿÿÿ8Î„É¯ñ1
+G	java:S106"+Replace this use of System.out by a logger.(¡Ê¼í8Ô„É¯ñ1
+G	java:S106"+Replace this use of System.out by a logger.(›†Ğç8ß„É¯ñ1
+G	java:S106"+Replace this use of System.out by a logger.(Ô³é8ã„É¯ñ1
+G	java:S106%"+Replace this use of System.out by a logger.(æ±¾ø8æ„É¯ñ1
+G	java:S106*"+Replace this use of System.out by a logger.(‘Û¤8í„É¯ñ1
+R
+java:S1854."5Remove this useless assignment to local variable "b".(ÕÑ‚¾8ò„É¯ñ1
+C
+java:S1481."&Remove this unused "b" local variable.(ÕÑ‚¾8÷„É¯ñ1
+G	java:S106/"+Replace this use of System.out by a logger.(·ÜïÂ8ø„É¯ñ1
+G	java:S1064"+Replace this use of System.out by a logger.(¶‹ğ¬8ÿ„É¯ñ1
+R
+java:S18548"5Remove this useless assignment to local variable "b".(İ—º©8…É¯ñ1
+C
+java:S14818"&Remove this unused "b" local variable.(İ—º©8ƒ…É¯ñ1
+L	java:S1069"+Replace this use of System.out by a logger.(ùÑÄøÿÿÿÿ8……É¯ñ1
+R
+java:S1854="5Remove this useless assignment to local variable "b".(±ğÉÊ8†…É¯ñ1
+C
+java:S1481="&Remove this unused "b" local variable.(±ğÉÊ8ˆ…É¯ñ1
+L	java:S106>"+Replace this use of System.out by a logger.(‡ÊÔ¨úÿÿÿÿ8‰…É¯ñ1
+W
+java:S1854B"5Remove this useless assignment to local variable "b".(ìÊåúÿÿÿÿ8Š…É¯ñ1
+H
+java:S1481B"&Remove this unused "b" local variable.(ìÊåúÿÿÿÿ8‹…É¯ñ1
+L	java:S106C"+Replace this use of System.out by a logger.(¬³Ÿ”øÿÿÿÿ8Œ…É¯ñ1
+L	java:S106H"+Replace this use of System.out by a logger.(•¯ŞÛıÿÿÿÿ8•…É¯ñ1
+G	java:S106M"+Replace this use of System.out by a logger.(ÚãÍ¥8¤…É¯ñ1
+L	java:S106N"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8§…É¯ñ1

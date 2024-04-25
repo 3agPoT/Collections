@@ -1,0 +1,37 @@
+
+\
+java:S1700"Rename field "arrayDeque"(Ã¾†Ó8âÚÅ¯ñ1J$67a2e120-5455-48a4-b2f2-96620e41102d
+V
+java:S1220""Move this file to a named package.J$34f5b366-dcd1-417d-afc4-0de45e140fc9
+u
+java:S3958/"2Refactor the code so this stream pipeline is used.(­â¿È8ÙŞÅ¯ñ1J$730ed738-7a97-48dd-9323-bc17730b251c
+r	java:S106"+Replace this use of System.out by a logger.(ùæù‰øÿÿÿÿ8•àÅ¯ñ1J$ad5a3786-1f6c-45d4-83de-04dedd294ecb
+r	java:S106"+Replace this use of System.out by a logger.(×Óâûÿÿÿÿ8¤àÅ¯ñ1J$963f4885-2ab9-49e0-89f0-6a755f300fe3
+m	java:S106"+Replace this use of System.out by a logger.(¸Õ•”8¬àÅ¯ñ1J$2d1b95a1-30c6-4611-981a-7cc7bd8026f1
+m	java:S106#"+Replace this use of System.out by a logger.(ğûè›8µàÅ¯ñ1J$11500496-3c21-4e7c-a5d4-1ad323ebb100
+m	java:S106*"+Replace this use of System.out by a logger.(öù²š8ÅàÅ¯ñ1J$8e8601f7-aa5e-45b1-9801-ddbf99c581be
+r	java:S1060"+Replace this use of System.out by a logger.(“ù´²ÿÿÿÿÿ8ÎàÅ¯ñ1J$445ea80a-9af6-47cb-b676-e183fe7acbe0
+x
+java:S18545"5Remove this useless assignment to local variable "b".(®ş·ì8ÔàÅ¯ñ1J$7a0dded3-7584-4b94-8632-163f50c91d60
+i
+java:S14815"&Remove this unused "b" local variable.(®ş·ì8ÊáÅ¯ñ1J$5d2f9382-2901-4b86-84f9-af28ab1d419b
+m	java:S1066"+Replace this use of System.out by a logger.(÷£ÃÃ8ÍáÅ¯ñ1J$772d1b4e-e14f-44a9-b0c7-1a5b684da3dc
+r	java:S106<"+Replace this use of System.out by a logger.(ğ²ä«şÿÿÿÿ8¾äÅ¯ñ1J$de2b9a47-918d-4f2c-9436-486694bed118
+W
+java:S1854A"5Remove this useless assignment to local variable "b".(‰â¾Êúÿÿÿÿ8‹™Æ¯ñ1
+H
+java:S1481A"&Remove this unused "b" local variable.(‰â¾Êúÿÿÿÿ8™Æ¯ñ1
+G	java:S106B"+Replace this use of System.out by a logger.(ş»°¥8™Æ¯ñ1
+W
+java:S1854G"5Remove this useless assignment to local variable "b".(½¦‡Êıÿÿÿÿ8‘™Æ¯ñ1
+H
+java:S1481G"&Remove this unused "b" local variable.(½¦‡Êıÿÿÿÿ8•™Æ¯ñ1
+L	java:S106H"+Replace this use of System.out by a logger.(óëÅ·úÿÿÿÿ8–™Æ¯ñ1
+R
+java:S1854N"5Remove this useless assignment to local variable "b".(Í˜­•8˜™Æ¯ñ1
+C
+java:S1481N"&Remove this unused "b" local variable.(Í˜­•8œ™Æ¯ñ1
+L	java:S106O"+Replace this use of System.out by a logger.(¬ˆ‘Çÿÿÿÿÿ8Ÿ™Æ¯ñ1
+G	java:S106U"+Replace this use of System.out by a logger.(¶äÕ8¥™Æ¯ñ1
+L	java:S106["+Replace this use of System.out by a logger.(µãÑ×ûÿÿÿÿ8ª™Æ¯ñ1
+L	java:S106\"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8¯™Æ¯ñ1

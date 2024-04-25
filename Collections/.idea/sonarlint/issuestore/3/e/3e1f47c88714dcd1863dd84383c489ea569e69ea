@@ -1,0 +1,41 @@
+
+8
+java:S1700"Rename field "hashSet"(×ÊŒ´şÿÿÿÿ8ş¸Ì¯ñ1
+V
+java:S1220""Move this file to a named package.J$7613f9a6-8f13-4be5-ae50-5321599cbc09
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(øè‘´8ƒºÌ¯ñ1
+L	java:S106"+Replace this use of System.out by a logger.(Æ‹Ê×ÿÿÿÿÿ8ºÌ¯ñ1
+D
+java:S2201"'The return value of "get" must be used.(øè‘´8¥ºÌ¯ñ1
+L	java:S106"+Replace this use of System.out by a logger.(“­Øûøÿÿÿÿ8¨ºÌ¯ñ1
+L	java:S106"+Replace this use of System.out by a logger.(œˆ¯‹şÿÿÿÿ8©ºÌ¯ñ1
+G	java:S106"+Replace this use of System.out by a logger.(Å¢—ğ8«ºÌ¯ñ1
+G	java:S106%"+Replace this use of System.out by a logger.(ìÇá 8¯ºÌ¯ñ1
+W
+java:S1854*"5Remove this useless assignment to local variable "b".(ú˜¢–ùÿÿÿÿ8´ºÌ¯ñ1
+H
+java:S1481*"&Remove this unused "b" local variable.(ú˜¢–ùÿÿÿÿ8¼ºÌ¯ñ1
+L	java:S106+"+Replace this use of System.out by a logger.(Â£Œûøÿÿÿÿ8½ºÌ¯ñ1
+N
+java:S2201/",The return value of "contains" must be used.(å¬¬²ùÿÿÿÿ8ÌºÌ¯ñ1
+G	java:S1060"+Replace this use of System.out by a logger.(Ø±Ìı8ÏºÌ¯ñ1
+L	java:S1065"+Replace this use of System.out by a logger.(Í«‡ úÿÿÿÿ8íºÌ¯ñ1
+R
+java:S18549"5Remove this useless assignment to local variable "b".(½ÉÔª8ïºÌ¯ñ1
+C
+java:S14819"&Remove this unused "b" local variable.(½ÉÔª8òºÌ¯ñ1
+G	java:S106:"+Replace this use of System.out by a logger.(ù±±8óºÌ¯ñ1
+W
+java:S1854>"5Remove this useless assignment to local variable "b".(ŒøŠÕûÿÿÿÿ8ôºÌ¯ñ1
+H
+java:S1481>"&Remove this unused "b" local variable.(ŒøŠÕûÿÿÿÿ8öºÌ¯ñ1
+G	java:S106?"+Replace this use of System.out by a logger.(İƒÌş8÷ºÌ¯ñ1
+R
+java:S1854C"5Remove this useless assignment to local variable "b".(ì²Ü8øºÌ¯ñ1
+C
+java:S1481C"&Remove this unused "b" local variable.(ì²Ü8ùºÌ¯ñ1
+L	java:S106D"+Replace this use of System.out by a logger.(Å¼Âôüÿÿÿÿ8úºÌ¯ñ1
+L	java:S106I"+Replace this use of System.out by a logger.(“Šªÿÿÿÿÿ8üºÌ¯ñ1
+G	java:S106N"+Replace this use of System.out by a logger.(®ğŞ©8şºÌ¯ñ1
+L	java:S106O"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8ˆ»Ì¯ñ1

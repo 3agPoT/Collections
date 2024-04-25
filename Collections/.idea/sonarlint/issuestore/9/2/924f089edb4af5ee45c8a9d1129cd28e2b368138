@@ -1,0 +1,11 @@
+
+r
+java:S1121¤".Extract the assignment out of this expression.(Ê„ç‡8¬€ã¯ñ1J$42dc9915-9072-476d-a986-a1e52e30d743
+V
+java:S1220""Move this file to a named package.J$23b04e87-2456-44ac-955c-e97fe8f6b999
+
+java:S1854¤"=Remove this useless assignment to local variable "selection".(Ê„ç‡8·‹ã¯ñ1J$842ab54c-955b-4d8e-a918-82f59211de86
+m	java:S106
+"+Replace this use of System.out by a logger.(ÆÀûı8Ì‹ã¯ñ1J$2e3a5ad5-5ad0-49a3-b427-d9e12cc3029b
+z
+java:S6126"2Replace this String concatenation with Text block.(¥ñöøşÿÿÿÿ8Î‹ã¯ñ1J$dd72c21d-f1b3-4340-b99f-1b71ae1ecace
